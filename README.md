@@ -1,0 +1,3 @@
+# EmeraldSword
+
+Code practice.
